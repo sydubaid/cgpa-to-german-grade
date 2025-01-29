@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cgpa-to-german-grade/static/css/main.bedfd948.css",
+    "main.js": "/cgpa-to-german-grade/static/js/main.9f6fc428.js",
+    "static/js/488.4750f47b.chunk.js": "/cgpa-to-german-grade/static/js/488.4750f47b.chunk.js",
+    "index.html": "/cgpa-to-german-grade/index.html",
+    "main.bedfd948.css.map": "/cgpa-to-german-grade/static/css/main.bedfd948.css.map",
+    "main.9f6fc428.js.map": "/cgpa-to-german-grade/static/js/main.9f6fc428.js.map",
+    "488.4750f47b.chunk.js.map": "/cgpa-to-german-grade/static/js/488.4750f47b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedfd948.css",
+    "static/js/main.9f6fc428.js"
+  ]
+}
